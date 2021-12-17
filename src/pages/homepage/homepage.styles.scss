@@ -1,0 +1,15 @@
+.contentDivHome{
+    display: flex;
+    width: 100%;
+    min-height: 350px;
+
+    .contentPersonalInformation{
+
+        width: 35%;
+        padding-top: 1.5rem;
+    }
+    .contentProfileInformation{
+        padding-left: 1rem;
+        width: 65%;
+    }
+}
